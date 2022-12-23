@@ -16,68 +16,13 @@ Hi I'm Abhinav Kanduri, Dedicated, detail-oriented Data Researcher/Analyst with 
 
 
 
+### List of Projects:
 
+#### 1.Python
+#### 2.Statistics
+#### 3.Data Analytics
+#### 4.Machine Learning
+#### 5.Natural Language processing
+#### 6.Deep Learning
+#### 7.Big Data
 
--> Statistics essential for data science
-
-
-Descriptive statistics
-
-Introduction to probability
-
-Probability distribution
-
-Hypothesis testing
-
-Regression Analysis
-
-
-
--> Python for Data Science
-
-
-Python Basics
-
-Data Wrangling
-
-Data Visualization
-
-Exploratory data analysis
-
-
-
--> Machine Learning and Deep Learning
-
-
-Supervised learning
-
-Unsupervised learning
-
-Reinforcement learning
-
-
-
--> Data Visualization using Tableau
-
-
-Introduction
-
-Dashboard design and principles
-
-Basic charts and dashboard
-
-Special charts
-
-
-
-Additional module
-
-
--> Big Data Handling and cloud concepts
-
-
-Big data using Hadoop
-
-Introduction to Pycharm
-
-Deploying models on cloud
