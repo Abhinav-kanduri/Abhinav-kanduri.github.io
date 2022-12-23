@@ -27,12 +27,13 @@ Hi I'm Abhinav Kanduri, Dedicated, detail-oriented Data Researcher/Analyst with 
 #### 7.Big Data
 
 
-#### Notes
-
-#### 1.Python -Basics / Data Structire & Algorithms
-#### 2.Statistics 
-#### 3.Data Analytics /Visualization 
-#### 4.Machine Learning
-#### 5.Natural Language processing
-#### 6.Deep Learning
-#### 7.Big Data
+# Notes
+<sub>
+    #### 1.Python -Basics / Data Structire & Algorithms
+    #### 2.Statistics 
+    #### 3.Data Analytics /Visualization 
+    #### 4.Machine Learning
+    #### 5.Natural Language processing
+    #### 6.Deep Learning
+    #### 7.Big Data
+</sub>
