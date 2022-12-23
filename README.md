@@ -4,7 +4,17 @@ Hi I'm Abhinav Kanduri, Dedicated, detail-oriented Data Researcher/Analyst with 
 
 
 # This is my to do list related to Data Science/Data Analysis 
-### I will updating it everyday
+### I will updating it everyday on the following topics
+
+#### Python
+#### Statistics
+#### Data Analytics
+#### Machine Learning
+#### Natural Language processing
+#### Deep Learning
+#### Big Data
+
+
 
 
 
