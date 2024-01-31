@@ -3,13 +3,7 @@
 
 
 
-Hi I'm Abhinav Kanduri, Dedicated, Data Enthusiast, detail-oriented Data Researcher/Analyst with practical experience and highly regarded utilizing technology to complete process validation and business needs analysis
- My name is Peter Baranovsky, and I’ve spent several years working as a researcher with the University of Saskatchewan, where I specialized in economic and statistical modeling, economic and energy policy analysis, and in using geospatial data for policy analysis.
-
-Now I am a freelance data analyst and R programmer (so if you have a project that requires data analysis and/or R programming, I’d be happy to help). Please use this contact form to reach me.
-
-If you enjoy my content and want to get more in-depth knowledge regarding data or just daily life as a Data Scientist, please follow me.
-and it would be very helpful, encouraging and supporting me 
+Hi I'm Abhinav Kanduri, Dedicated, detail-oriented with 4+ years specializing in Data Analysis, Machine learning models, Natural Language Processing, and ETL infrastructure experienced and highly regarded utilizing technology to complete process validation and business needs analysis Currently leading projects to extract insights from text data. Enthusiastic about integrating General AI (Gen AI) and Language Model (LLM) for advanced analytics. Expertise in data warehousing, business intelligence reporting, and diverse machine learning techniques with Natural Language Process.
 
 **link : https://abhinav-kanduri.github.io/my_profile/**
 **https://www.linkedin.com/in/abhinav-kanduri-1b638320b/**
