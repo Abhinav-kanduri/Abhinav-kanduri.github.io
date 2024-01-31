@@ -35,6 +35,14 @@ a {
   display: inline-block;
 }
 
+<<<<<<< HEAD
+/* Typewriter Effect Styles */
+.Typewriter__wrapper {
+  display: inline-block;
+}
+
+=======
+>>>>>>> 6ff6312daea4e8aca6acecfcb9868658686fc706
 .Typewriter__cursor {
   animation: blink 0.7s infinite;
 }
@@ -47,6 +55,10 @@ a {
     opacity: 0;
   }
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 6ff6312daea4e8aca6acecfcb9868658686fc706
 p {
   margin-bottom: 1.5em; }
 
