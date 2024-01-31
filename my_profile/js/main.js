@@ -2,6 +2,30 @@
 (function () {
 
 	'use strict';
+	// Typewriter Effect
+	const words = [
+		"Machine Learning",
+		"Deep Learning",
+		"Generative AI",
+		"Natural Language Processing",
+		"Large Language Models"
+	  ];
+	
+	  const wrapper = document.querySelector(".Typewriter__wrapper");
+	  const cursor = document.querySelector(".Typewriter__cursor");
+	
+	  function typeWords(index) {
+		if (index < words.length) {
+		  wrapper.textContent = words[index];
+		  setTimeout(() => typeWords(index + 1), 2000); // Adjust the delay as needed
+		} else {
+		  cursor.style.display = "none"; // Hide the cursor when done
+		}
+	  }
+	
+	  // Start the typewriter effect
+	  typeWords(0);
+	
 
 	var projectsArray = [
 		{
