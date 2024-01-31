@@ -31,6 +31,24 @@ a {
     outline: none;
     text-decoration: none !important; }
 
+/* Typewriter Effect Styles */
+.Typewriter__wrapper {
+  display: inline-block;
+}
+
+.Typewriter__cursor {
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
 p {
   margin-bottom: 1.5em; }
 
